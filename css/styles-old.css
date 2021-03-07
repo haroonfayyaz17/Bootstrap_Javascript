@@ -75,6 +75,11 @@ input.radio {
     z-index: 1;
 }
 
+.modal-header {
+    background-color: $background-dark;
+    color: floralwhite;
+}
+
 
 /*
 hr{
